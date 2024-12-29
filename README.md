@@ -18,7 +18,7 @@ PHP: Laravel Framework
 Angular  
 HTML, CSS, JavaScript: Jquery, AngularJS, Bootstrap  
 Databases: SQL Server, MySQL  
-Other Skills: Microservices, Kafka, Docker, Git, Wordpress TOEIC  
+Other Skills: Microservices, Kafka, Docker, Git, Wordpress, TOEIC  
 
 👨‍🏫 Mentor  
 Aptech Teacher Phan Huu Tri  
